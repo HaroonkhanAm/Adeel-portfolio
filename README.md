@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Demo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5.
@@ -29,3 +30,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # demo
 >>>>>>> 0c8db761ea31efb165c2226e4452d16390c0e46e
+=======
+# Adeel-portfolio
+>>>>>>> 39c5ed3412877be944b1405f976e8003db266526
